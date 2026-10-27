@@ -56,11 +56,6 @@ function clientTestCode() {
     } else {
         console.log('Prototype has been cloned. Yay!');
     }
-
-
-console.log(JSON.stringify(p1));
-    // const p3 = JSON.parse(JSON.stringify(p1));
-    // console.log('p3: ', p3);
 }
 
 clientTestCode();
